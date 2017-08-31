@@ -17,12 +17,12 @@
 		
 		
 		<!-- Custom JS -->
-	    <script type="text/jsx" src="../potburn_test_environment/js/index.js"></script>
-	    <script type="text/jsx" src="../potburn_test_environment/js/index.js"></script>
+	   	<script type="text/jsx" src="index.js"></script>
+	    	<script type="text/jsx" src="index.js"></script>
 	
 		<!-- Custom CSS rules-->
-		<link rel ="stylesheet" href="../potburn_test_environment/css/index.css">
-		<link rel ="stylesheet" href="../potburn_test_environment/css/footer.css">
+		<link rel ="stylesheet" href="index.css">
+		<link rel ="stylesheet" href="footer.css">
 		
 	</head>
 	
